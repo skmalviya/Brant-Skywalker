@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brant-Skywalker&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brant-Skywalker&hide=javascript,jupyter_notebook&langs_count=10)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brant-Skywalker&hide=javascript,jupyternotebook&langs_count=10)]
