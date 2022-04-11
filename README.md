@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C++ and algorithms
 - 👯 I’m looking to collaborate on NLP research 
 - 🤔 I’m looking for help with NLP
-- 💬 Ask me about C++ and algorithms though I'm too ignorant to answer
+- 💬 Ask me about C++ and algorithms
 - 📫 How to reach me: siyuanq4@illinois.edu
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm just silly!
