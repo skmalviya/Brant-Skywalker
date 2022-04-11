@@ -9,7 +9,7 @@
 - 💬 Ask me about C++ and algorithms
 - 📫 How to reach me: siyuanq4@illinois.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm just silly!
+- ⚡ Fun fact: **I'm just silly!**
 
 <!--
 **Brant-Skywalker/Brant-Skywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
