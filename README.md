@@ -11,10 +11,6 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm just silly!
 
-![counter](https://en4xilm51szg60h.m.pipedream.net/favicon.ico) 
- <a href="https://github.com/amanj28?tab=followers"><img src="https://img.shields.io/github/followers/amanj28?label=Followers&style=social" alt="GitHub Badge" align="right"></a>
-
-
 <!--
 **Brant-Skywalker/Brant-Skywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
