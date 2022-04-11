@@ -9,7 +9,7 @@
 - 💬 Ask me about C++
 - 📫 How to reach me: siyuanq4@illinois.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm just silly :)!
+- ⚡ Fun fact: I'm just silly!
 
 
 <!--
