@@ -1,13 +1,15 @@
 <h1 align="center"> Hi! I'm Scharfrichter Qian! </h1>
 <h3 align="center">A Computer Engineering Student From China</h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on NLP research
 - 🤔 I’m looking for help with NLP
 - 💬 Ask me about C++
 - 📫 How to reach me: siyuanq4@illinois.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm just silly!
+- ⚡ Fun fact: I'm just silly :)!
 
 
 <!--
