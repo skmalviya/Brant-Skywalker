@@ -1,5 +1,20 @@
 <h1 align="center"> Hi! I'm Scharfrichter Qian! </h1>
 <h3 align="center">A Computer Engineering Student From China</h3>
+<div id="badges"  align="center">
+    
+    
+![](https://komarev.com/ghpvc/?username=Ahmed-Aoulad-Amar)
+    <img  src="https://img.shields.io/github/followers/Ahmed-Aoulad-Amar?label=Follow" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/github/stars/Ahmed-Aoulad-Amar?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
+    
+  </div>
+
+<div id="header" align="center">
+    <a href="yhttps://github.com/Ahmed-Aoulad-Amar/">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
+       </a>
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
