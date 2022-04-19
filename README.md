@@ -26,20 +26,22 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: **I'm just silly!**
 
-<!--
-**Brant-Skywalker/Brant-Skywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<hr/>
+<h2> Technical Skills 🛠 </h2>
 
-Here are some ideas to get you started:
+<h3 align="left">Programming Languages:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+
 
  <br/>
     <a href="https://github.com/amanj28/github-readme-stats"><img alt="Amanj28' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Brant-Skywalker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
