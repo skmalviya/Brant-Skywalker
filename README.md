@@ -24,7 +24,7 @@
 - 💬 Ask me about C++ and algorithms
 - 📫 How to reach me: siyuanq4@illinois.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: **I'm just silly!**
+- ⚡ Fun fact: **I'm just silly! Please help me become smart!**
 
 <br>
 <hr/>
