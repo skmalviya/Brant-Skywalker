@@ -44,4 +44,4 @@
 
 
 <img alt="Brant-Skywalker' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Brant-Skywalker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <img alt="Brant-Skywalker' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brant-Skywalker&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a> 
+  <img alt="Brant-Skywalker' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brant-Skywalker&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript,jupyter%20notebook" /></a> 
