@@ -4,7 +4,7 @@
     
     
 ![](https://komarev.com/ghpvc/?username=Brant-Skywalker)
-    <img  src="https://img.shields.io/github/followers/Brant-Skywalker?label=Follow" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/github/followers/Brant-Skywalker?label=Follow" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/github/stars/Brant-Skywalker?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
     
   </div>
