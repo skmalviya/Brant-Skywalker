@@ -9,11 +9,9 @@
     
   </div>
 
-<div id="header" align="center">
-    <a href="yhttps://github.com/Brant-Skywalker/">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
-       </a>
-</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
 
 - 🌱 I’m currently learning Rust and OS
 - 👯 I’m looking to collaborate on Rust Projects
