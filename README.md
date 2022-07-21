@@ -38,7 +38,6 @@
 
 <h1 align="Center">GitHub Statistics</h1>
 <p align="center">
-  <a href="https://github.com/Brant-Skywalker/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brant-Skywalker streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Brant-Skywalker&theme=react&hide_border=true%22"/>
   </a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brant-Skywalker&layout=compact&theme=react&count_private=true&langs_count=6&hide=javascript,jupyter%20notebook" width="350" />
