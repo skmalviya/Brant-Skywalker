@@ -41,8 +41,11 @@
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
- <br/>
-  <img alt="Brant-Skywalker' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brant-Skywalker&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript,jupyter%20notebook" /></a> 
-
-
-<img alt="Brant-Skywalker' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Brant-Skywalker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<h1 align="Center">GitHub Statistics</h1>
+<p align="center">
+  <a href="https://github.com/khusamayasir/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Brant-Skywalker&theme=react&hide_border=true%22"/>
+  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brant-Skywalker&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript,jupyter%20notebook" width="350" />
+<img src="https://github-readme-stats.vercel.app/api?Brant-Skywalker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="420"/>
+</p>
