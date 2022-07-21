@@ -28,9 +28,9 @@
 
 <br>
 <hr/>
-<h2> Technical Skills 🛠 </h2>
+<h1 align="Center"> Technical Skills 🛠 </h2>
 
-<h3 align="left">Programming Languages:</h3>
+<h2 align="left">Programming Languages:</h3>
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
