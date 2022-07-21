@@ -21,8 +21,8 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: **I'm just silly! Please help me become smart!**
 
-<br>
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
 <h1 align="Center"> Technical Skills 🛠 </h2>
 
 <h2 align="left">Programming Languages:</h3>
