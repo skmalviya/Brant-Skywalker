@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I'm Scharfrichter Qian! </h1>
-<h3 align="center">A Computer Engineering Student From China</h3>
+<h3 align="center">A Computer Engineering Student (UIUC ECE '24) From China</h3>
 <div id="badges"  align="center">
     
     
